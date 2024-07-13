@@ -1,0 +1,1 @@
+CC(=O)O.OCC>[H+].[Cl-].OCC
